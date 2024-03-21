@@ -1,7 +1,6 @@
-# Article Analyzer NLP
 <h1 align="center">
   <br>
-  <a href="https://www.theguardian.com/uk-news/2023/sep/08/what-a-year-of-king-charles-has-shown-us-about-how-he-wants-to-reign"><img src="What_a_year_of_King_Charles_has_shown_us_about_how_he_wants_to_reign_wordcloud.png" alt="Article Analyzer NLP" width="400"></a>
+  <a href="https://www.theguardian.com/uk-news/2023/sep/08/what-a-year-of-king-charles-has-shown-us-about-how-he-wants-to-reign"><img src="What_a_year_of_King_Charles_has_shown_us_about_how_he_wants_to_reign_wordcloud.png" alt="Article Analyzer NLP" width="350"></a>
   <br>
   Article Analyzer NLP
   <br>
