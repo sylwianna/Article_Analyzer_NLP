@@ -1,11 +1,11 @@
 <h1 align="center">
   <br>
-  <a href="https://www.theguardian.com/uk-news/2023/sep/08/what-a-year-of-king-charles-has-shown-us-about-how-he-wants-to-reign"><img src="What_a_year_of_King_Charles_has_shown_us_about_how_he_wants_to_reign_wordcloud.png" alt="Article Analyzer NLP" width="350"></a>
+  <a href="https://www.theguardian.com/uk-news/2023/sep/08/what-a-year-of-king-charles-has-shown-us-about-how-he-wants-to-reign" target="_blank"><img src="What_a_year_of_King_Charles_has_shown_us_about_how_he_wants_to_reign_wordcloud.png" alt="Article Analyzer NLP" width="350"></a>
   <br>
   Article Analyzer NLP
   <br>
 </h1>
-<h4 align="center">Extract article's text from web page, transform, load to working directory, analyze content and visualize..</h4>
+<h4 align="center">Extract article's text from web page, transform, load to working directory, analyze content and visualize.</h4>
 
 <p align="center">
   <a href="#general-info">General Info</a> •
