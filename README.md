@@ -34,7 +34,7 @@ Article Analyzer is a Python script which allows you to conduct analysis of web 
 
 **Ideas for future development:**
 * Create Bash/Powershell script to run two scripts, extract_article and anlyzie_article, one by one with just one command
-* Create deeper analysis and add more visuals
+* Carry out a deeper analysis and add more visuals
 
 ## Getting Started
 
@@ -69,7 +69,19 @@ $ git clone https://github.com/sylwianna/Article_Analyzer_NLP.git
 $ cd Article_Analyzer_NLP
 ```
 
- After that, you can run the scripts, extract_article and then analze-article. Replace the url in extract_article script with your chosen one and mask_image file in the repository to the shape you want for the resulting wordcloud.
+ After that, you can run the scripts directly from terminal by using below command:
+
+ ```bash
+ # 1. Run extract_article.py
+ $ python extract_article.py
+
+ # 2. Run analyze_article.py
+ $ python analyze_article.py
+ ```
+ 
+Or you can use the scripts with .ipynb extention and open them in Jupyter Notebook.
+
+Replace the url in extract_article script with your chosen one and mask_image file in the repository to the shape you want for the resulting wordcloud. You can also adjust colors etc.
 
 ## Inspiration
 :bulb: After creating <a href="https://github.com/sylwianna/WordCloud_Generator" target="_blank">WordCloud_Generator</a>, I was inspired by projects I'm currently involved in at my curret job position, to broaden the scope of the initial script by adding more features, and challenge myself in web scraping. The idea encouraged me to dive deeper into the field of NLP and learn more about the techniques for text analysis, resulting in the script beginning with text extraction and ending with visualising analysis results.
