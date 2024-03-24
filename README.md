@@ -16,7 +16,7 @@
 </p>
 
 ## General Info
-Article Analyzer is a Python script which allows you to conduct analysis of web article text based on page url. It includes preparing the content - extraction of text from the url (web scraping), text data transformation (parsing, text/words adjustments so it is analysable etc.) and analysis with dataframe, bar chart, word cloud (which is a technique of visual representation of the most frequently occurring words in the given text) and creating report as Word document. Read more about word cloud in a separate repository <a href="https://github.com/sylwianna/WordCloud_Generator" target="_blank">WordCloud_Generator</a> and about the script's features below.
+Article Analyzer is a Python script which allows you to conduct analysis of web article text based on page url (example based on The Guardian article about King Charles). It includes preparing the content -extraction of text from the url (web scraping), text data transformation (parsing, text/words adjustments so it is analysable etc.), analysis and visualization with dataframe, bar chart, word cloud (which is a technique of visual representation of the most frequently occurring words in the given text) and creating report as Word document. Read more about word cloud in a separate repository <a href="https://github.com/sylwianna/WordCloud_Generator" target="_blank">WordCloud_Generator</a> and about the scripts' features below.
 
 ### Features
 * extraction of article's text (web scraping)
@@ -34,6 +34,7 @@ Article Analyzer is a Python script which allows you to conduct analysis of web 
 
 **Ideas for future development:**
 * Create Bash/Powershell script to run two scripts, extract_article and anlyzie_article, one by one with just one command
+* Add recognition of proper names
 * Carry out a deeper analysis and add more visuals
 
 ## Getting Started
